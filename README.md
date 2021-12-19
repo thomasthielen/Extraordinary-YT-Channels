@@ -18,6 +18,12 @@
 
 *todo*
 
+![Captain Disillusion](https://user-images.githubusercontent.com/87545109/146688071-80ea6a3f-6cc9-4461-a635-fd993b66eb81.jpg)
+
+[Captain Disillusion ](https://www.youtube.com/c/CaptainDisillusion)
+
+*todo*
+
 # Entertainment
 
 ![Casually Explained](https://user-images.githubusercontent.com/87545109/146682422-0e369784-d0d5-4ef7-9c19-886fafd6a19f.jpg)
