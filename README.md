@@ -40,4 +40,11 @@
 
 *todo*
 
+[Harry Partridge](https://www.youtube.com/user/HarryPartridge)
+
+![Harry Partridge](https://user-images.githubusercontent.com/87545109/146688306-7f8dfcae-b285-4fc6-ab75-556abd5bf2bf.jpg)
+
+*todo*
+
+
 # Video Games
