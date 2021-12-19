@@ -18,9 +18,17 @@
 
 *todo*
 
-![Captain Disillusion](https://user-images.githubusercontent.com/87545109/146688071-80ea6a3f-6cc9-4461-a635-fd993b66eb81.jpg)
+![Captain Disillusion](https://user-images.githubusercontent.com/87545109/146688203-74be2926-fc44-47cb-acd7-0b0686259de8.jpg)
 
 [Captain Disillusion ](https://www.youtube.com/c/CaptainDisillusion)
+
+*todo*
+
+# Politics
+
+![ContraPoints](https://user-images.githubusercontent.com/87545109/146688177-87a8f8f5-1a94-4308-90e7-124aebb9a804.jpg)
+
+[ContraPoints](https://www.youtube.com/c/ContraPoints)
 
 *todo*
 
