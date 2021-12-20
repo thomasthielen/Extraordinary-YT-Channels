@@ -11,6 +11,15 @@ His golden age began in late 2015, when he announced his name change as well as 
 
 Since then he released 19 documentaries ([playlist](https://www.youtube.com/playlist?list=PLAhTBeRe8IhMmRve_rSfAgL_dtEXkKh8Z)), and they are some of the best content ever produced for YouTube.
 
+**My personal highlights:**
+
+| Thumbnail| Link |
+| ----------- | ----------- |
+| <img src="https://user-images.githubusercontent.com/87545109/146779555-b37f7ee1-dac7-422f-919c-2c0c949efb5d.jpg" alt="" width="128" height="72">      | [Consumed by the Apocalypse](https://www.youtube.com/watch?v=nx2-4l4s4Nw&list=PLAhTBeRe8IhMmRve_rSfAgL_dtEXkKh8Z)       |
+| <img src="https://user-images.githubusercontent.com/87545109/146780786-b911fd21-4182-4527-9127-2f6a17537e63.jpg" alt="" width="128" height="72">   |   [Cicada 3301: An Internet Mystery](https://www.youtube.com/watch?v=I2O7blSSzpI)    |
+| <img src="https://user-images.githubusercontent.com/87545109/146781988-aac72268-9a53-4ea6-b5d2-4df954384fa2.jpg" alt="" width="128" height="72"> | [The Search For D. B. Cooper](https://www.youtube.com/watch?v=CbUjuwhQPKs) |
+| <img src="https://user-images.githubusercontent.com/87545109/146782168-43e9b32e-1020-4c3a-91c0-2ceb9fb40412.jpg" alt="" width="128" height="72"> | [Extraordinary Until Proven Otherwise](https://www.youtube.com/watch?v=SpeSpA3e56A) |
+
 ![Jay Foreman](https://user-images.githubusercontent.com/87545109/146682143-a2b5eb01-cc56-4ca0-99f0-3adfcc1d2589.jpg)
 
 ## Jay Foreman
