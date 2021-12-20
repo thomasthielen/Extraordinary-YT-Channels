@@ -1,8 +1,8 @@
 # Educational
 
-![](https://user-images.githubusercontent.com/87545109/146681551-0c280ccc-ac34-435a-854a-0225b039e69e.jpg)
-
 ## [LEMMiNO](https://www.youtube.com/c/LEMMiNO)
+
+![](https://user-images.githubusercontent.com/87545109/146681551-0c280ccc-ac34-435a-854a-0225b039e69e.jpg)
 
 Formerly known as "Top10Memes", LEMMiNO began his career making videos ranking *Rage Comics*. Yeah, you read that right. Though, to be fair, that was back in 2012.
 His content quickly adapted towards Top 10 Facts of different topics within Popular culture.
@@ -20,9 +20,11 @@ Since then he released 19 documentaries ([playlist](https://www.youtube.com/play
 | <img src="https://user-images.githubusercontent.com/87545109/146781988-aac72268-9a53-4ea6-b5d2-4df954384fa2.jpg" alt="" width="128" height="72"> | [The Search For D. B. Cooper](https://www.youtube.com/watch?v=CbUjuwhQPKs) |
 | <img src="https://user-images.githubusercontent.com/87545109/146782168-43e9b32e-1020-4c3a-91c0-2ceb9fb40412.jpg" alt="" width="128" height="72"> | [Extraordinary Until Proven Otherwise](https://www.youtube.com/watch?v=SpeSpA3e56A) |
 
-![Jay Foreman](https://user-images.githubusercontent.com/87545109/146682143-a2b5eb01-cc56-4ca0-99f0-3adfcc1d2589.jpg)
 
-## Jay Foreman
+
+## [Jay Foreman](https://www.youtube.com/c/JayForeman)
+
+![Jay Foreman](https://user-images.githubusercontent.com/87545109/146682143-a2b5eb01-cc56-4ca0-99f0-3adfcc1d2589.jpg)
 
 *todo*
 
