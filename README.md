@@ -26,11 +26,24 @@ Since then he released 19 documentaries ([playlist](https://www.youtube.com/play
 
 ![Jay Foreman](https://user-images.githubusercontent.com/87545109/146682143-a2b5eb01-cc56-4ca0-99f0-3adfcc1d2589.jpg)
 
-*todo*
+Oh boy, Jay Foreman. I don't know anyone else who can combine education with such impeccable comedy.
 
-![CGP Grey](https://user-images.githubusercontent.com/87545109/146682307-3cdc9b01-8f75-4e89-b6be-7d20e6434b58.jpg)
+His songs (e.g. [Singing one syllable out-of-sync](https://www.youtube.com/watch?v=Een_AKh7Nik)) are just as good as his several series, namely [Unfinished London](https://www.youtube.com/playlist?list=PLfxy4_sBQdxwf909hUFsM59Y0RC_k9fvV), [Politics Unboringed](https://www.youtube.com/playlist?list=PLfxy4_sBQdxzZNqvVQXcBPvsl1Zgzy2-q) and, of course, [Map Men](https://www.youtube.com/playlist?list=PLfxy4_sBQdxy3A2lvl-y3qWTeJEbC_QCp).
+
+While his solo projects are great, his duo perfomance with Mark Cooper-Jones in Map Men is impeccable. Witty and educational, these lads live rent-free in my heart.
+
+**My personal highlights:**
+
+| Thumbnail| Link |
+| ----------- | ----------- |
+| <img src="https://user-images.githubusercontent.com/87545109/146785542-cb03faf4-05a3-4da7-885c-711228efdf79.jpg" alt="" width="128" height="72"> | [Why are British place names so hard to pronounce?](https://www.youtube.com/watch?v=uYNzqgU7na4) |
+| <img src="https://user-images.githubusercontent.com/87545109/146785913-aabb4c96-e8f9-4334-a2b5-46e5ed61a158.jpg" alt="" width="128" height="72"> | [How did triangles shrink France?](https://www.youtube.com/watch?v=yTyX_EJQOIU) |
+| <img src="https://user-images.githubusercontent.com/87545109/146786118-2ae70770-0db7-4d27-b16b-fb18a3052078.jpg" alt="" width="128" height="72"> | [Pretend You're Happy](https://www.youtube.com/watch?v=PeCrnbJHJeY) |
+| <img src="https://user-images.githubusercontent.com/87545109/146786221-74afc9db-cee0-4778-9141-8d3502c39798.jpg" alt="" width="128" height="72"> | [Who's in charge of Britain?](https://www.youtube.com/watch?v=rMXJOKhf_AA) |
 
 ## CGP Grey
+
+![CGP Grey](https://user-images.githubusercontent.com/87545109/146682307-3cdc9b01-8f75-4e89-b6be-7d20e6434b58.jpg)
 
 *todo*
 
